@@ -1,6 +1,9 @@
 # Calculator---cli
 # calculator.py  
-# A simple command-line calculator supporting basic arithmetic operations with history.  
+# A simple command-line calculator supporting basic arithmetic operations with history. Calculator CLI
+
+A simple command-line calculator built in Python.  
+Supports addition, subtraction, multiplication, division, and modulo with history tracking.  
   
 def add(x, y):  
     """Add two numbers."""  
